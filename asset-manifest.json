@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UAS-FE-REACT/static/css/main.e6af0214.css",
+    "main.js": "/UAS-FE-REACT/static/js/main.e565900e.js",
+    "static/media/hello.png": "/UAS-FE-REACT/static/media/hello.861886cb8650088b1f85.png",
+    "static/media/form.png": "/UAS-FE-REACT/static/media/form.7e392a634791820c2aac.png",
+    "index.html": "/UAS-FE-REACT/index.html",
+    "main.e6af0214.css.map": "/UAS-FE-REACT/static/css/main.e6af0214.css.map",
+    "main.e565900e.js.map": "/UAS-FE-REACT/static/js/main.e565900e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6af0214.css",
+    "static/js/main.e565900e.js"
+  ]
+}
